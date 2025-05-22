@@ -2,7 +2,7 @@
     <img src="pic/headerlogo.png" width="200" style="margin-bottom: 0.2;"/>
 <p>
 
-# TransBench: Multilingual Translation Benchmark Leaderboard
+# TransBench: Multilingual Translation Leaderboard for Industrial-Scale Applications
 
 <div align="center">
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version"> 
@@ -102,6 +102,22 @@ We welcome contributions through:
 3. **Cultural Expertise**: Help refine localization criteria
 
 See [CONTRIBUTING.md](path/to/contributing) for details.
+
+## Citation
+
+If you find TransBench useful for your research and applications, please cite:
+
+```
+@misc{zhao2024marcoo1openreasoningmodels,
+      title={TransBench: Benchmarking Machine Translation for Industrial-Scale Applications}, 
+      author={Haijun Li, Tianqi Shi, Zifu Shang, Yuxuan Han, Xueyu Zhao, Hao Wang, Yu Qian, Zhiqiang Qian, Linlong Xu, Minghao Wu, Chenyang Lyu, Longyue Wang, Gongbo Tang, Weihua Luo, Zhao Xu, Kaifu Zhang},
+      year={2025},
+      eprint={2505.14244},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.14244}, 
+}
+```
 
 ## License
 This benchmark is released under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
