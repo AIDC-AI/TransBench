@@ -60,9 +60,9 @@ Our datasets cover multiple domains and linguistic features:
 | Cultural Adaptation | Taboo mappings, honorific norms | 8 languages |
 | Stress Testing | Adversarial inputs, error simulations | All languages |
 
-<p align="center">
+<!-- <p align="center">
     <img src="pic/dataset.jpg" width="200" style="margin-bottom: 0.2;"/>
-<p>
+<p> -->
 
 ## Benchmark Leaderboard
 **Scoring Rules**  
