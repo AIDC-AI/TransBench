@@ -46,9 +46,8 @@ TransBench evaluates models through three core dimensions:
    Focus: Cross-cultural adaptation  
    Primary Metric: Accuracy Rate
 
-![Evaluation Framework](path/to/evaluation-framework.png) 
 <p align="center">
-    <img src="pic/eval-framework.png" width="200" style="margin-bottom: 0.2;"/>
+    <img src="pic/eval-framework.png" width="500" style="margin-bottom: 0.2;"/>
 <p>
 
 ## Dataset Overview
