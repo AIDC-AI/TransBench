@@ -1,7 +1,8 @@
-# TransBench Multilingual Translation Benchmark Leaderboard
+<p align="center">
+    <img src="pic/headerlogo.png" width="150" style="margin-bottom: 0.2;"/>
+<p>
 
-
-![Project Overview](pic/headerlogo.png) 
+# TransBench: Multilingual Translation Benchmark Leaderboard
 
 <div align="center">
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version"> 
