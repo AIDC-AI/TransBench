@@ -47,7 +47,7 @@ TransBench evaluates models through three core dimensions:
    Primary Metric: Accuracy Rate
 
 <p align="center">
-    <img src="pic/eval-framework.png" width="500" style="margin-bottom: 0.2;"/>
+    <img src="pic/eval-framework.png" width="800" style="margin-bottom: 0.2;"/>
 <p>
 
 ## Dataset Overview
