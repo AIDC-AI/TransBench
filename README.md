@@ -1,7 +1,7 @@
 # TransBench Multilingual Translation Benchmark Leaderboard
 
 
-![Project Overview](path/to/overview-image.png) 
+![Project Overview](pic/headerlogo.png) 
 
 <div align="center">
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version"> 
