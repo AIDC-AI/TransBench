@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="pic/headerlogo.png" width="150" style="margin-bottom: 0.2;"/>
+    <img src="pic/headerlogo.png" width="200" style="margin-bottom: 0.2;"/>
 <p>
 
 # TransBench: Multilingual Translation Benchmark Leaderboard
@@ -47,6 +47,9 @@ TransBench evaluates models through three core dimensions:
    Primary Metric: Accuracy Rate
 
 ![Evaluation Framework](path/to/evaluation-framework.png) 
+<p align="center">
+    <img src="pic/eval-framework.png" width="200" style="margin-bottom: 0.2;"/>
+<p>
 
 ## Dataset Overview
 Our datasets cover multiple domains and linguistic features:
