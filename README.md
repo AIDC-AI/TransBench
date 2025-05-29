@@ -122,7 +122,8 @@ If you find TransBench useful for your research and applications, please cite:
 ```
 
 ## License
-This benchmark is released under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+<!-- This benchmark is released under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). -->
+The project is released under Apache License 2.0 (http://www.apache.org/licenses/LICENSE-2.0, SPDX-License-identifier: Apache-2.0).
 
 ## Acknowledgments
 We thank our industry partners and linguistic experts for their invaluable contributions to developing robust evaluation standards.
